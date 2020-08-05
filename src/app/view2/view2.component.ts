@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class View2Component implements OnInit {
 
+  message: string;
+
   constructor() { }
 
   ngOnInit(): void {
+    this.message = $localize`hello friend`;
   }
 
 }
