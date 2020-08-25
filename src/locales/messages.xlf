@@ -9,18 +9,18 @@
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="07377d4e3a6be8b2107bbaa72aeb1e8b8f745553" datatype="html">
-        <source>view2 works!</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">../app/view2/view2.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="493297021352091070" datatype="html">
         <source>hello friend</source>
         <context-group purpose="location">
           <context context-type="sourcefile">../app/view2/view2.component.ts</context>
           <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07377d4e3a6be8b2107bbaa72aeb1e8b8f745553" datatype="html">
+        <source>view2 works!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../app/view2/view2.component.html</context>
+          <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit>
     </body>
